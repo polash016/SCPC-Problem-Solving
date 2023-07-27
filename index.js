@@ -24,7 +24,6 @@ const sumPositiveNumbers = (arr) => {
 const arr = [10, -4, 5, -10, 8, -13, 7, -45]
 // console.log(sumPositiveNumbers(arr))
 
-// Problem 3
 
 
 
@@ -50,7 +49,7 @@ const twoIndexNum= (arr, target) => {
     return null;
   }
   
-  // example
+
   const arr2 = [1, 3, 6, 8, 11, 15];
   const target = 14;
   const result = twoIndexNum(arr2, target);
