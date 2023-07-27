@@ -131,7 +131,7 @@ const secondSmallNumber = arr => {
     return(sortedArr[1])
 }
 const array = [56,43,66,25,7868,86,6,84,9,57]
-console.log(secondSmallNumber(array))
+// console.log(secondSmallNumber(array))
 
   
   
